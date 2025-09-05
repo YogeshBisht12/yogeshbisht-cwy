@@ -8,7 +8,7 @@ interface MessageInputProps {
 }
 
 const EMAIL_CONFIG = {
-  address: "sahoosagnik1@gmail.com",
+  address: "yogeshbisht12122005@gmail.com",
   subject: "Message from Portfolio Website"
 } as const;
 
