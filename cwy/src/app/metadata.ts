@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     "Expert software developer creating stunning web applications with React, Next.js, TypeScript & modern frontend architecture. View portfolio of high-performance, accessible digital experiences.",
   authors: [
     {
-      name: "Sagnik Sahoo",
+      name: "Yogesh Bisht",
       url: DOMAIN,
     },
   ],
