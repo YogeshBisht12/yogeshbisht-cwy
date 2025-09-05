@@ -1,4 +1,4 @@
-# sagnik-wtf 🚀
+# yogeshbisht-cwy 🚀
 
 sup! this is my corner of the internet - a vibe-check portfolio built with next.js, typescript & tailwind.
 
@@ -21,8 +21,8 @@ sup! this is my corner of the internet - a vibe-check portfolio built with next.
 ## quick start 🏁
 
 ```bash
-git clone https://github.com/heysagnik/sagnik-wtf.git
-cd sagnik-wtf
+git clone https://github.com/YogeshBisht12/yogeshbisht-cwy.git
+cd cwy
 npm i
 npm run dev
 ```
@@ -31,6 +31,5 @@ open [localhost:3000](http://localhost:3000) and vibe ✌️
 
 
 
-## made with ❤️ by [sagnik](https://x.com/heysagnik)
+## made with ❤️ by [yogeshbisht](https://www.instagram.com/codewithyash3/
 
-inspired by [alistair.sh](https://alistair.sh) • powered by [next.js](https://nextjs.org)
